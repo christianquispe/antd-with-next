@@ -1,8 +1,2 @@
-import Layout from "../components/Layout";
-
-const About = () => (
-  <Layout>
-    <h1>Hola</h1>
-  </Layout>
-);
+const About = () => <h1>Hola</h1>;
 export default About;
